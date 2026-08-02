@@ -5,8 +5,7 @@
 <h3 align="center">Computer Science Student | Full Stack Developer | AI Enthusiast</h3>
 <p align="center">Learning. Building. Improving.</p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Cloud+%26+DevOps+Learner;Always+Learning+Something+New"/>
-</p>
+ 
 
 
 
