@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=250&section=header&text=Shaun%20Joseph&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-</p>
+ 
 
 <h1 align="center">Hi 👋, I'm Aayush Sharma</h1>
 
-<h3 align="center">Computer Science Student | Full Stack Developer | AI & Cloud Enthusiast</h3>
+<h3 align="center">Computer Science Student | Full Stack Developer | AI Enthusiast</h3>
 <p align="center">Learning. Building. Improving.</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Cloud+%26+DevOps+Learner;Always+Learning+Something+New"/>
